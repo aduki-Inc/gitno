@@ -1,0 +1,2 @@
+# gitno
+Commandline gitignore generator
